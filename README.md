@@ -5,9 +5,9 @@ I am a passionate **Business Central Developer** with extensive experience in im
 While my primary focus is on Business Central, I also have experience with **Microsoft Dynamics AX** (now known as **Finance & Operations**) and have worked with **JavaScript** and **C#** to support various development needs. Though these aren't my primary languages, I am comfortable working with them to extend and enhance solutions as needed.
 
 ## 🔧 Skills & Expertise:
-- Microsoft Dynamics 365 Business Central (Primary Expertise)
+- Microsoft Dynamics 365 Business Central / Navision (Primary Expertise)
 - Microsoft Dynamics AX / Finance & Operations
-- AL programming language
+- AL / C/AL programming language
 - ERP system implementation & customization
 - Integration of Business Central with other Microsoft and third-party services
 - Creating efficient workflows, reports, and custom features
